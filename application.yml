@@ -1,15 +1,13 @@
 value:
-  names[0]: cesar
-  names[1]: laura
-  names[2]: julio
-  names[3]: andrea
-  names[4]: pedro
-  names[5]: diana
-  names[6]: arturo
-  names[7]: elena
-  names[8]: hector
-  names[9]: julieta
-  names[10]: rodrigo
-  names[11]: claudia
-  names[12]: carlos
-  names[13]: berenice
+  # hector
+  names[0]: a | hector
+  names[1]: a | hernandez
+  names[2]: a | huerta
+  # ana
+  names[3]: b | ana
+  names[4]: b | alcantara
+  names[5]: b | araiza
+  # carlos
+  names[6]: c | carlos
+  names[7]: c | castro
+  names[8]: c | coppel
