@@ -1,2 +1,15 @@
 value:
-  name: cesar
+  names[0]: cesar
+  names[1]: laura
+  names[2]: julio
+  names[3]: andrea
+  names[4]: pedro
+  names[5]: diana
+  names[6]: arturo
+  names[7]: elena
+  names[8]: hector
+  names[9]: julieta
+  names[10]: rodrigo
+  names[11]: claudia
+  names[12]: carlos
+  names[13]: nerenice
