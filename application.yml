@@ -7,7 +7,7 @@ value:
     materno: pelaez
   personas[1]:
     id: 2
-    nombre: ana
+    nombre: angel
     paterno: sanchez
     materno: lopez
   personas[2]:
