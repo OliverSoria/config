@@ -1,13 +1,6 @@
 value:
-  # hector
-  names[0]: a | hector
-  names[1]: a | hernandez
-  names[2]: a | huerta
-  # ana
-  names[3]: b | ana
-  names[4]: b | alcantara
-  names[5]: b | araiza
-  # carlos
-  names[6]: c | carlos
-  names[7]: c | castro
-  names[8]: c | coppel
+  # oliver
+  names[0]:
+    nombre: oliver
+    paterno: soria
+    materno: pelaez
