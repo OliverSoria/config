@@ -1,6 +1,12 @@
 value:
   # oliver
   personas[0]:
+    id: 1
     nombre: oliver
     paterno: soria
     materno: pelaez
+  personas[1]:
+    id: 2
+    nombre: ana
+    paterno: sanchez
+    materno: lopez
