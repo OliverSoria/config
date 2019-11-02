@@ -15,3 +15,8 @@ value:
     nombre: julio cesar
     paterno: chavez
     materno: carrasco
+  personas[3]:
+    id: 4
+    nombre: carlos
+    paterno: trejo
+    materno: tapia  
