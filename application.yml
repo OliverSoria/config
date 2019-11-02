@@ -10,3 +10,8 @@ value:
     nombre: ana
     paterno: sanchez
     materno: lopez
+  personas[2]:
+    id: 3
+    nombre: julio cesar
+    paterno: chavez
+    materno: carrasco
